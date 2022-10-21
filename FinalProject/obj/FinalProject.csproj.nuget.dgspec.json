@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alec_\\OneDrive - West Texas A and M University\\School\\Fall 2022\\Programming\\Final Project\\4390finalproject\\FinalProject\\FinalProject.csproj": {}
+    "C:\\Users\\alec_\\OneDrive - West Texas A and M University\\School\\Fall 2022\\Programming\\Final Project\\4390finalproject\\finalproject\\FinalProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alec_\\OneDrive - West Texas A and M University\\School\\Fall 2022\\Programming\\Final Project\\4390finalproject\\FinalProject\\FinalProject.csproj": {
+    "C:\\Users\\alec_\\OneDrive - West Texas A and M University\\School\\Fall 2022\\Programming\\Final Project\\4390finalproject\\finalproject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alec_\\OneDrive - West Texas A and M University\\School\\Fall 2022\\Programming\\Final Project\\4390finalproject\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "C:\\Users\\alec_\\OneDrive - West Texas A and M University\\School\\Fall 2022\\Programming\\Final Project\\4390finalproject\\finalproject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "C:\\Users\\alec_\\OneDrive - West Texas A and M University\\School\\Fall 2022\\Programming\\Final Project\\4390finalproject\\FinalProject\\FinalProject.csproj",
+        "projectPath": "C:\\Users\\alec_\\OneDrive - West Texas A and M University\\School\\Fall 2022\\Programming\\Final Project\\4390finalproject\\finalproject\\FinalProject.csproj",
         "packagesPath": "C:\\Users\\alec_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alec_\\OneDrive - West Texas A and M University\\School\\Fall 2022\\Programming\\Final Project\\4390finalproject\\FinalProject\\obj\\",
+        "outputPath": "C:\\Users\\alec_\\OneDrive - West Texas A and M University\\School\\Fall 2022\\Programming\\Final Project\\4390finalproject\\finalproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alec_\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -55,6 +55,10 @@
               "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.10, )"
             }
